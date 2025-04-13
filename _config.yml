@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nayema Akter's Academic Homepage"
+title                    : "Hi! Happy to see you here"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nayema Akter"
 description              : &description "Welcome to my homepage. I am a final year undergraduate student at Sichuan University. I am fortunate to be advised by Prof. Haixian Zhang."
 url                      : https://nayema32.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
